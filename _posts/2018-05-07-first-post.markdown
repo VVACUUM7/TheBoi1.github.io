@@ -2,7 +2,7 @@
 layout: post
 title:  "The Shrimp Song"
 date:   2018-04-30 13:30:49 -0700
-categories: jekyll update
+categories: uncategorized
 ---
 
 [The Shrimp Song][shrimpo]
