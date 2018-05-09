@@ -26,7 +26,7 @@ github_username:  TheBoi1
 disqus:
   shortname: wte42sjekyll-site
  
- timezone: America/California
+ timezone: America/Los_Angeles
 # Build settings
 markdown: kramdown
 theme: minima
