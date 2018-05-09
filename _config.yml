@@ -25,7 +25,8 @@ url: "https://theboi1.github.io" # the base hostname & protocol for your site, e
 github_username:  TheBoi1
 disqus:
   shortname: wte42sjekyll-site
-
+ 
+ timezone: America/California
 # Build settings
 markdown: kramdown
 theme: minima
