@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: WTE's Site
+title: "WTE's Site"
 email: armon.bhau@warriorlife.net
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -26,7 +26,7 @@ github_username:  TheBoi1
 disqus:
   shortname: wte42sjekyll-site
  
- timezone: America/Los_Angeles
+timezone: America/Los_Angeles
 # Build settings
 markdown: kramdown
 theme: minima
