@@ -7,6 +7,6 @@ author: WTE42
 ---
 
 
-My Intro to programming website [Website][liltay] 
+My Intro to programming [website][liltay] 
 
  [liltay]: /website/
