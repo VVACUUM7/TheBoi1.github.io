@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+<script type="text/javascript">
+	function enter_a_number() {
+			var x = document.getElementById("Input").value;
+			try {
+				if( x == "") throw "empty";
+				if(isNaN(x)) throw "not number";
+				x = Number(x);
+				if(x < 5) throw "too long";
+				if(x > 10) throw "too high";
+			}
+			catch(err) {
+				alert(err);
+			}
+	}
+</script>
+</head>
+
+<body>
+<p>Please enter a number</p>
+<input id="input" type="text">
+<input type="button" value="Test Input" onClick="enter_a_number()">
+<p id="message"></p>
+</body>
+</html>
